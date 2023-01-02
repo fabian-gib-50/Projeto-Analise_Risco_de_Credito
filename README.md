@@ -1,6 +1,6 @@
 ![Dbianbanner](https://user-images.githubusercontent.com/79420053/199480193-289782ad-90a7-4537-8f4c-cca64e36b55f.png)
 
-# Projeto de Análise, Predição e Risco de Crédito
+# Projeto de Análise, Predição e Risco de Crédito com Machine Learning ( I.A )
 
  - `Risco de Crédito`: segundo o Wikipedia, é o risco padrão (default), em uma operação de crédito que é levantada quando o usuário (cliente), não é capaz de honrar seus compromissos. E, em caso positivo, ou seja, em havendo atraso do pagamento, a `inadimplência` afetará diretamente o balanço da instituição concededora. Mediante o cenário, precisamos fazer avaliações sistemáticamente, a fim de mitigar tais ocorrências, para isso, usamos soluções de Ciência de Dados com o emprego de Machine Learning, com objetivo de evitar corres riscos e cadas vez  mais, avaliar motivos e a incapacidade financeira por parte do cliente, utilizando I.A.
 ___ 
